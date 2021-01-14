@@ -20,8 +20,8 @@ public class app{
 	static void quicksort(List<Integer> list, int left, int right){
 		// 確認用
 		//System.out.println(list);
-		System.out.println(left);
-		System.out.println(right);
+		// System.out.println(left);
+		// System.out.println(right);
 		
 		// 左グループの基準
 		int pivot_left = left;
